@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Usuario\source\repos\Sistema_MyC\CapaNegocio\obj\Debug\CapaNegocio.pdb
